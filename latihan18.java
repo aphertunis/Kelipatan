@@ -1,3 +1,8 @@
+//Nama      : Nur Riskon Abdan Syakuro
+//  NIM       : 23176031
+//  Prodi     : Sistem Informasi
+//  Deskripsi : program ini untuk menghitung kelipatan 3,5 dengan nilai maksimal 35
+
 public class latihan18 {
   public static void main(String[] args) {
     // Inisialisasi variabel
